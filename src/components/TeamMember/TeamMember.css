@@ -1,0 +1,38 @@
+.member__card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: rgba(165, 171, 177, 0.6);
+    border-radius: 15px;
+    color: whitesmoke;
+    padding: 3%;
+    height: 400px;
+}
+
+.member__card:hover {
+    background: rgba(51, 124, 184, 0.7);
+    box-shadow: rgba(0, 0, 0, 1) 0px 10px 35px;
+}
+
+.member__img {
+    align-self: center;
+}
+
+.member__details {
+    align-self: start;
+}
+
+.member__details p {
+    font-size: 18px;
+}
+
+.member__img img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.add__member {
+    margin: 3% 0%;
+    background-color: #FFB830;
+}
