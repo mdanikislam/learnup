@@ -2,9 +2,9 @@
 ## Live Link: [Click Here](https://zepto-soft.netlify.app/)
 
 ## Technology
-React
-Bootstrap
-Font Awsome
+* React
+* Bootstrap
+* Font Awsome
 
 ## About Project 
 
